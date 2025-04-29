@@ -1,0 +1,29 @@
+/* Reset de estilos básicos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Fondo y estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Estilo para links de Vue Router */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  a.router-link-exact-active {
+    color: #00bcd4;
+  }
+  
+  /* Transiciones globales */
+  * {
+    transition: all 0.3s ease;
+  }
+  

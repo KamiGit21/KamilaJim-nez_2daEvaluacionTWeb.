@@ -1,0 +1,28 @@
+/* backgrounds.css */
+.home-page {
+    background-image: url('https://cdn.wallpapersafari.com/38/65/Fcx7LA.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .people-page {
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/df4td7f-518bd788-ce19-4efc-9f39-6cafbc0f4074.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGY0dGQ3Zi01MThiZDc4OC1jZTE5LTRlZmMtOWYzOS02Y2FmYmMwZjQwNzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.j3-1AZN3ObJPAdisjOrDTEPF4vt210lwa-cwcXhIlWI');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .starships-page {
+    background-image: url('https://media.istockphoto.com/id/544671790/es/foto/caza-rebeldes.jpg?s=612x612&w=0&k=20&c=MvbEZ674thJpQqVewrr9mZTJ0Ijd6vxLY73tZoDDjmU=');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .planets-page {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pBC9ZWkSw49RBoJZQOfUrbTw422zS5uOKA&s');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
